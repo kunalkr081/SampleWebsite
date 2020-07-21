@@ -19,7 +19,7 @@ section{
 #page2{
 	background-image: url("1.png");
 	width: 100%;
-	height: 800px;
+	height: 600px;
 	float: left;
 }
 #page3{
@@ -31,7 +31,7 @@ section{
 #page4{
 	background-image: url("3.png");
 	width: 100%;
-	height: 600px;
+	height: 800px;
 	float: left;
 }
 #page5{
@@ -49,4 +49,26 @@ section{
 
 #button1 , #button2 {
 display:inline-block;
+}
+
+#head1 , #imgA1 , #imgA2 , #head2 {
+	display:inline-block;
+}
+
+#head3 , #imgA1 , #imgA2 , #head4 {
+	display:inline-block;
+}
+#head5 , #imgA1 , #imgA2 , #head6 {
+	display:inline-block;
+}
+
+#p1 , #p2 , #p3 {
+	display: inline-block;
+}
+#p4 , #p5 , #p6 {
+	display: inline-block;
+}
+
+#K1 , #K2 , #K3, #K4, #K5, #K6 {
+	display: inline-block;
 }
